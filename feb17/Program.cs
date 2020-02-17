@@ -10,6 +10,7 @@ namespace feb17
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Első Git Repo-m");
         }
     }
 }
